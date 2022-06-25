@@ -432,7 +432,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            Otext="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡*\n\n*This is made for :* [KARASUNO](http://t.me/Karasuno_Network)\n\n*And the groups present in the network*\n*I am owned by* [Preety](https://t.me/NARUTO_UZUMAKI_33) *and my developer is :* [Bebop](https://t.me/GINSAAAN)""",
+            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡*\n\n*This is made for :* [KARASUNO](http://t.me/Karasuno_Network)\n\n*And the groups present in the network*\n*I am owned by* [Preety](https://t.me/NARUTO_UZUMAKI_33) *and my developer is :* [Bebop](https://t.me/GINSAAAN)""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
