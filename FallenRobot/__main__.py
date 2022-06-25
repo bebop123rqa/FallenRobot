@@ -96,7 +96,7 @@ buttons = [
     [
         InlineKeyboardButton(text="💔 sᴜᴘᴘᴏʀᴛ 💔", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(
-            text="Dev", url=f"https://t.me/{OWNER_USERNAME}"
+            text="Dev", url=f"https://t.me/NARUTO_UZUMAKI_33"
         ),
     ],
 ]
@@ -405,7 +405,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠ🤟", url="https://t.me/GINSAAAN"
+                            text="ᴅᴇᴠ🤟", url="https://t.me/NARUTO_UZUMAKI_33"
                         ),
                         InlineKeyboardButton(
                             text="Network🔥", url="https://t.me/Karasuno_Network"
@@ -432,7 +432,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡*\n\n*This is made for :* [KARASUNO](http://t.me/Karasuno_Network)\n\n*And the groups present in the network*\n*I am owned by* [Preety](https://t.me/NARUTO_UZUMAKI_33) *and my developer is :* [Bebop](https://t.me/GINSAAAN)""",
+            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡*\n\n*This is made for :* [KARASUNO NETWORK](http://t.me/Karasuno_Network)\n\n*And the groups present in the network*\n*I am owned by* [Preety](https://t.me/NARUTO_UZUMAKI_33) *and my developer is :* [Bebop](https://t.me/GINSAAAN)""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -734,8 +734,8 @@ def main():
         try:
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
-                "https://te.legra.ph/file/775cac50212c8d9985681.jpg",
-                caption="Detective Chika is own scene!\n\n to work for『Kᴀʀᴀsᴜɴᴏ』",
+                "https://te.legra.ph/file/24b70b88a8d5c3d70efb4.jpg",
+                caption="Detective Chika is on scene!\n\n to work for『Kᴀʀᴀsᴜɴᴏ』",
             )
         except Unauthorized:
             LOGGER.warning(
