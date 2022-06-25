@@ -104,7 +104,7 @@ buttons = [
 FallenRobot_IMG = "https://te.legra.ph/file/7ef7c89b97360c5f07fd1.jpg"
 
 HELP_STRINGS = f"""
-Bebop's bot *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /start : *ꜱᴛᴀʀᴛꜱ ᴍᴇ | ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍᴇ ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴅᴏɴᴇ ɪᴛ​.*\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n*  ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ​ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.*\n*  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ.*"""
+ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡ ! (https://te.legra.ph/file/775cac50212c8d9985681.jpg) *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /start : *ꜱᴛᴀʀᴛꜱ ᴍᴇ | ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍᴇ ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴅᴏɴᴇ ɪᴛ​.*\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n*  ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ​ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.*\n*  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ.*"""
 
 DONATE_STRING = """[Bebop](https://t.me/GINSAAAN)"""
 
@@ -432,7 +432,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            Otext="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡*\n\n*This is made for :* [KARASUNo](http://t.me/Karasuno_Network)\n\n*And the groups present in the network*\n*I am owned by* [Preety](https://t.me/NARUTO_UZUMAKI_33) *and my developer is :* [Bebop](https://t.me/GINSAAAN)""",
+            Otext="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʜɪᴋᴀ ғᴜᴊɪᴡᴀʀᴀ ♡*\n\n*This is made for :* [KARASUNO](http://t.me/Karasuno_Network)\n\n*And the groups present in the network*\n*I am owned by* [Preety](https://t.me/NARUTO_UZUMAKI_33) *and my developer is :* [Bebop](https://t.me/GINSAAAN)""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
