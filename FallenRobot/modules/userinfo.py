@@ -284,17 +284,17 @@ def info(update: Update, context: CallbackContext):
         text += "\n\nThis user is my sexy <b>Darling</b>.\n"
         disaster_level_present = True
     elif user.id in DEMONS:
-        text += "\n\nThis User is my hot and cute <b>bf</b>uwu.\n"
+        text += "\n\nThis User is my hot and cute <b>bf</b> uwu.\n"
         disaster_level_present = True
     elif user.id in TIGERS:
         text += "\n\nThis User has <b>Crush</b> on me ewww.\n"
         disaster_level_present = True
     elif user.id in WOLVES:
-        text += "\n\nThis User is my <b>ex</b>.\n"
+        text += "\n\nThis User is my toxic <b>ex</b>.\n"
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' \n[<a href="https://t.me/Chika_Support/816">Click here to know there place in my heart.</a>]'.format(
+        text += ' \n[<a href="https://t.me/Chika_Support/816">Click here to know this users place in my heart.</a>]'.format(
             bot.username
         )
 
