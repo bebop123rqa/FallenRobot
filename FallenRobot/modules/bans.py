@@ -59,7 +59,7 @@ def ban(update: Update, context: CallbackContext) -> str:
         message.reply_text("Can't seem to find this person.")
         return log_message
     if user_id == bot.id:
-        message.reply_text("Never teach driver to drive truck and father tu fuck")
+        message.reply_text("Never teach driver to drive truck and father to fu*k")
         return log_message
 
     if is_user_ban_protected(chat, user_id, member) and user not in DEV_USERS:
