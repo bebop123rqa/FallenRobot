@@ -735,7 +735,7 @@ def main():
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
                 "https://te.legra.ph/file/90d2fb2074dd08db0a11c.mp4",
-                caption="Cute Chika is ready\n\n to dance for [Kᴀʀᴀsᴜɴᴏ](https://t.me/Karasuno_Network)",
+                caption="*Cute Chika is ready\n\n to dance for 『Kᴀʀᴀsᴜɴᴏ』 *",
             )
         except Unauthorized:
             LOGGER.warning(
