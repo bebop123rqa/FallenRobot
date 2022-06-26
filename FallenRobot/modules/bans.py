@@ -49,27 +49,27 @@ def ban(update: Update, context: CallbackContext) -> str:
     user_id, reason = extract_user_and_text(message, args)
 
     if not user_id:
-        message.reply_text("I doubt that's a user.")
+        message.reply_text("nibbe user ko tag kar")
         return log_message
     try:
         member = chat.get_member(user_id)
     except BadRequest as excp:
-        if excp.message != "User not found":
+        if excp.message != "Saale yessa koi user ich nai idhar":
             raise
         message.reply_text("Can't seem to find this person.")
         return log_message
     if user_id == bot.id:
-        message.reply_text("Oh yeah, ban myself, noob!")
+        message.reply_text("Never teach driver to drive truck and father tu fuck")
         return log_message
 
     if is_user_ban_protected(chat, user_id, member) and user not in DEV_USERS:
         if user_id == OWNER_ID:
-            message.reply_text("Trying to put me against a God level disaster huh?")
+            message.reply_text("Salle aukad main reh tu baap he voh terra")
         elif user_id in DEV_USERS:
-            message.reply_text("I can't act against our own.")
+            message.reply_text("Chumtiye betta he ye merra")
         elif user_id in DRAGONS:
             message.reply_text(
-                "Fighting this Dragon here will put civilian lives at risk."
+                "Yeh banda merra roj muh mein letta hain isse mein ban nai karunga"
             )
         elif user_id in DEMONS:
             message.reply_text(
@@ -92,9 +92,9 @@ def ban(update: Update, context: CallbackContext) -> str:
         silent = False
     log = (
         f"<b>{html.escape(chat.title)}:</b>\n"
-        f"#{'S' if silent else ''}ʙᴀɴɴᴇᴅ\n"
-        f"<b>ʙᴀɴɴᴇᴅ ʙʏ:</b> {mention_html(user.id, html.escape(user.first_name))}\n"
-        f"<b>ᴜsᴇʀ:</b> {mention_html(member.user.id, html.escape(member.user.first_name))}"
+        f"#{'S' if silent else ''}Gamn Mardi\n"
+        f"<b>Isne :</b> {mention_html(user.id, html.escape(user.first_name))}\n"
+        f"<b>Iski :</b> {mention_html(member.user.id, html.escape(member.user.first_name))}"
     )
     if reason:
         log += "\n<b>ʀᴇᴀsᴏɴ:</b> {}".format(reason)
@@ -120,7 +120,7 @@ def ban(update: Update, context: CallbackContext) -> str:
         return log
 
     except BadRequest as excp:
-        if excp.message == "Reply message not found":
+        if excp.message == "nibbe sahi msg ko reply de":
             # Do not reply
             if silent:
                 return log
@@ -167,7 +167,7 @@ def temp_ban(update: Update, context: CallbackContext) -> str:
         message.reply_text("I can't seem to find this user.")
         return log_message
     if user_id == bot.id:
-        message.reply_text("I'm not gonna BAN myself, are you crazy?")
+        message.reply_text("Don't Teach your dad How to Bang")
         return log_message
 
     if is_user_ban_protected(chat, user_id, member):
