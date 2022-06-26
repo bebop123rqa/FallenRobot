@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hey darling,\n ᴛʜɪs ɪs {}* [!](https://te.legra.ph/file/b2dc3eeb5fa9843adcea0.mp4)\n\n *A advanced group management bot to manage your chat group\n ➢ Hit /help to see my available commands × × *\n Powered by • [Karasuno Network ♡](https://t.me/Karasuno_Network) ​
+*Hey darling,\n ᴛʜɪs ɪs {}* [!](https://te.legra.ph/file/90d2fb2074dd08db0a11c.mp4)\n\n *A advanced group management bot to manage your chat group\n ➢ Hit /help to see my available commands × × *\n Powered by • [Karasuno Network ♡](https://t.me/Karasuno_Network) ​
 """
 
 buttons = [
@@ -734,7 +734,7 @@ def main():
         try:
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
-                "https://te.legra.ph/file/b2dc3eeb5fa9843adcea0.mp4",
+                "https://te.legra.ph/file/90d2fb2074dd08db0a11c.mp4",
                 caption="Cute Chika is ready\n\n to dance for [Kᴀʀᴀsᴜɴᴏ](https://t.me/Karasuno_Network)",
             )
         except Unauthorized:
