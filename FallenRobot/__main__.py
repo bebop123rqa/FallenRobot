@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hey darling,\n ᴛʜɪs ɪs {}* [!](https://te.legra.ph/file/90d2fb2074dd08db0a11c.mp4)\n\n *An advanced group management bot to manage your chat group\n ➢ Hit /help to see my available commands × × *\n Powered by • [Karasuno Network ♡](https://t.me/Karasuno_Network) ​
+*Hey darling,\n ᴛʜɪs ɪs {}* [!](https://telegra.ph/file/6fa692700a8001a33176a.mp4)\n\n *An advanced group management bot to manage your chat group\n ➢ Hit /help to see my available commands × × *\n Powered by • [Karasuno Network ♡](https://t.me/Karasuno_Network) ​
 """
 
 buttons = [
