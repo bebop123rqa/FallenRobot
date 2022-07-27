@@ -732,7 +732,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.send_photo(
+            dispatcher.bot.send_animation(
                 f"@{SUPPORT_CHAT}",
                 "https://te.legra.ph/file/90d2fb2074dd08db0a11c.mp4",
                 caption="*Cute Chika is ready\n\n to dance for 『Kᴀʀᴀsᴜɴᴏ』 *",
